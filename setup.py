@@ -5,7 +5,7 @@ from pip.download import PipSession
 
 setup(
     name='fizz-buzz',
-    version='1.0.0',
+    version='1.1.0',
     url='https://github.com/Paradoxis/Fizz-Buzz',
     license='DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE',
     author='Paradoxis',
